@@ -20,7 +20,7 @@ A background service built with Node.js that automatically organizes files in th
 
 1. **Clone the repository**
 ```bash
-git clone <YOUR_REPO_URL>
+git clone <This Repo URL>
 cd downloads-organizer
 ```
 
